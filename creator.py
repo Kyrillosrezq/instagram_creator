@@ -36,7 +36,7 @@ with open("prox.txt", "r") as file:
         # variables sets
         USERNAME = gen.username()
         NAME = gen.firstName()
-        PASSWORD = "captian911"
+        PASSWORD = "#############" # use your own password
         DAY = str(gen.day())
         MONTH = str(gen.month())
         YEAR = str(gen.year())
