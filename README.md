@@ -17,4 +17,10 @@ Logging Information: Upon successful account creation, login details (username, 
 Requirements: This script necessitates the use of proxies for operation.
 
 
+contact me
+whatsapp :  wa.me/201022399797
+telegram : @kyrilloswajeeh
+
+
+
 
